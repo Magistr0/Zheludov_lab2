@@ -1,2 +1,3 @@
 ﻿  Zheludov_lab2.cpp
-  Zheludov_lab2.vcxproj -> C:\Users\zhelu\OneDrive\Документы\GitHub\zheludov_lab1\Zheludov_lab2\x64\Debug\Zheludov_lab2.exe
+C:\Users\zhelu\OneDrive\Документы\GitHub\Zheludov_lab2\Zheludov_lab2\Zheludov_lab2\Zheludov_lab2.cpp(133,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Zheludov_lab2.vcxproj -> C:\Users\zhelu\OneDrive\Документы\GitHub\Zheludov_lab2\Zheludov_lab2\x64\Debug\Zheludov_lab2.exe
